@@ -1,4 +1,4 @@
-node_ex4
+node_webapp
 ========
 
-basic node project start directory
+basic normal web project start directory
